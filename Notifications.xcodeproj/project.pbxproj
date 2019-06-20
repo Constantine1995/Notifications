@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0401CD0B22BB9A6B00F1A6E8 /* Notifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0401CD0A22BB9A6B00F1A6E8 /* Notifications.swift */; };
+		0401CD0D22BBA16F00F1A6E8 /* swift.png in Resources */ = {isa = PBXBuildFile; fileRef = 0401CD0C22BBA16F00F1A6E8 /* swift.png */; };
 		A8217DE020DBD56300895832 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8217DDF20DBD56300895832 /* AppDelegate.swift */; };
 		A8217DE520DBD56300895832 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A8217DE320DBD56300895832 /* Main.storyboard */; };
 		A8217DE720DBD56400895832 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A8217DE620DBD56400895832 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		0401CD0A22BB9A6B00F1A6E8 /* Notifications.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notifications.swift; sourceTree = "<group>"; };
+		0401CD0C22BBA16F00F1A6E8 /* swift.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = swift.png; path = ../../../Desktop/swift.png; sourceTree = "<group>"; };
 		A8217DDC20DBD56300895832 /* Notifications.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Notifications.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8217DDF20DBD56300895832 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A8217DE420DBD56300895832 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				A8217DF320DCAF4E00895832 /* TableViewController.swift */,
 				A8217DE320DBD56300895832 /* Main.storyboard */,
 				A8217DE620DBD56400895832 /* Assets.xcassets */,
+				0401CD0C22BBA16F00F1A6E8 /* swift.png */,
 				A8217DE820DBD56400895832 /* LaunchScreen.storyboard */,
 				A8217DEB20DBD56400895832 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A8217DEA20DBD56400895832 /* LaunchScreen.storyboard in Resources */,
+				0401CD0D22BBA16F00F1A6E8 /* swift.png in Resources */,
 				A8217DE720DBD56400895832 /* Assets.xcassets in Resources */,
 				A8217DE520DBD56300895832 /* Main.storyboard in Resources */,
 			);
